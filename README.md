@@ -1,9 +1,24 @@
-# api
+# COVID19INDIA.ORG API
 
-https://api.covid19india.org/data.json
+Below URLs are of **API**, which are holding data for covid19india tracker.
 
-https://api.covid19india.org/state_district_wise.json
 
-https://api.covid19india.org/travel_history.json
+# APIs
 
-https://api.covid19india.org/raw_data.json
+
+
+## RAW Data
+
+>https://api.covid19india.org/raw_data.json
+
+## Extracted Data
+
+>https://api.covid19india.org/data.json
+
+## Extracted Data w.r.t State-District
+
+>https://api.covid19india.org/state_district_wise.json
+
+## Extracted Data w.r.t Travel History
+
+>https://api.covid19india.org/travel_history.json
